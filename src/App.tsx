@@ -5,7 +5,7 @@ const pipelineSteps = [
   },
   {
     title: 'CI',
-    text: 'GitHub Actions cai package, lint, build de bat loi som.',
+    text: 'GitHub Actions cai package, lint, test, build de bat loi som.',
   },
   {
     title: 'Test',
